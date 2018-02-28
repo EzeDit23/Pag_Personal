@@ -124,6 +124,17 @@ body {
     margin-right: auto;
 }
 
+
+.presentacion .titulo-sm{
+    position: absolute;
+    font-size: 65px;
+    justify-content: center;
+    text-align: center;
+    color: #02bcb4;
+    top: 750px;
+
+}
+
 .presentacion h2{
     position: absolute;
     font-size: 65px;
@@ -139,6 +150,6 @@ body {
 }
 
 .biografia {
-    margin-top: -150px;
+    margin-top: -50px;
   
 }
